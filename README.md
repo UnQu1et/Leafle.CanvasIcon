@@ -1,1 +1,1 @@
-# Leafle.CanvasIcon
+# Leaflet.CanvasIcon
